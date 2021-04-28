@@ -1,5 +1,5 @@
 # learn
-<h1>WEB DEV BOOTCAMP<h1><br>
+<h1>WEB DEV BOOTCAMP</h1><br>
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b>SHAPEAI</b>.
 The instructor duing the session was Mr. Shaurya Sinha (a Data Analyst at Jio). I got to learn a lot during these 7 days and it was an amazing experiance learning with SHAPEAI.
